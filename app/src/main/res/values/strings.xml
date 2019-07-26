@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tute02</string>
+    <string name="N1">Number 1</string>
+    <string name="N2">Number 2</string>
+    <string name="txtBox">Enter Number</string>
+    <string name="okBtn">OK</string>
+    <string name="Ans">0</string>
+    <string name="p">+</string>
+    <string name="m">-</string>
+    <string name="d">/</string>
+    <string name="multiplication">*</string>
+</resources>
